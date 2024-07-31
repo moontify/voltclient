@@ -1,4 +1,4 @@
-version = 1.0.1
+version = 1.0.2
 loader_url = https://www.dropbox.com/scl/fi/uuxm06q07nqupn7lq7wue/Loader.zip?rlkey=plokcji73gzwya9x935irymbz&st=0hipctqn&dl=1
 client_url = https://www.dropbox.com/scl/fi/16tm736l3k31ejtxjwi1o/volt.zip?rlkey=tkhqu62z0nxc62rnb5ba02ocs&st=5rxd8sj4&dl=1
 jar_url = https://www.dropbox.com/scl/fi/4xekbk1c6ujyy0pceyiiw/client.jar?rlkey=5xnhhzufqquy8x68jlr924f4y&st=94npg43g&dl=1
